@@ -8,6 +8,7 @@ Contents:
    :hidden:
 
    derbyshire/index
+   london/index
 
 
 Second Heading
